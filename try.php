@@ -1,6 +1,6 @@
 <?php 
 
 	
-	echo 'Please Test Motherfucker';
+	echo 'I hope that this will test oh Lord!';
 
  ?>
