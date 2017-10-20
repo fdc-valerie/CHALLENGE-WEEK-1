@@ -1,6 +1,6 @@
 <?php 
 
 	
-	echo 'GITHUB WEBHOOK CHALLENGE WEEK October 16 - 20, 2017';
+	echo 'I hope that this will test oh Lord!';
 
  ?>
