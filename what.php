@@ -1,5 +1,5 @@
 <?php 
 
-echo "PISTY KA VALERIE";
+echo "POTA INA MAG PULL KA";
 
  ?>
