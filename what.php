@@ -1,5 +1,5 @@
 <?php 
 
-echo "POTA INA MAG PULL KA";
+echo "heheeheheehe lol";
 
  ?>
