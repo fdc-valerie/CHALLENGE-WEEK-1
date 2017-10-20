@@ -1,6 +1,6 @@
 <?php 
 
-echo "VALERIE GISAPOT";
+echo "PISTY KA VALERIE";
 //casfas
 
 
